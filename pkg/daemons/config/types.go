@@ -18,6 +18,7 @@ const (
 	FlannelBackendNone      = "none"
 	FlannelBackendVXLAN     = "vxlan"
 	FlannelBackendHostGW    = "host-gw"
+	FlannelBackendICE       = "ice"
 	FlannelBackendIPSEC     = "ipsec"
 	FlannelBackendWireguard = "wireguard"
 	CertificateRenewDays    = 90
